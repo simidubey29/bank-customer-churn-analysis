@@ -148,33 +148,6 @@ GROUP BY Exited;
 
 ---
 
-## Key Findings
-
-### Customer Insights
-
-- The dataset contains over 10,000 banking customers.
-- Customer distribution varies across different countries.
-- Customer demographics provide valuable segmentation opportunities.
-
-### Financial Insights
-
-- Account balances differ significantly among customers.
-- Certain geographical regions maintain higher average balances.
-- A small percentage of customers hold exceptionally large balances.
-
-### Churn Insights
-
-- Customer churn patterns vary across age groups.
-- Active members demonstrate stronger retention behavior.
-- Customer engagement appears to influence churn rates.
-
-### Credit Risk Insights
-
-- Credit scores vary across the customer base.
-- Credit score analysis helps understand customer risk profiles.
-- Higher scores generally indicate stronger financial standing.
-
----
 
 ## Repository Structure
 
